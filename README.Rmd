@@ -1,13 +1,27 @@
+---
+output: github_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 
 # DirtyFriday
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 Lo scopo di `DirtyFriday` è quello di collezionare e condividere il
-materiale delle sessioni “DirtyFriday” che tengo il venerdì pomeriggio
+materiale delle sessioni "DirtyFriday" che tengo il venerdì pomeriggio
 per sperimentare, mostrare e condividere le mie idee su come poter
 scrivere script e progetti R in modo pulito, leggibile, robusto,
 condivisible, affidabile, facilmente collaborativo, e il tutto senza
@@ -29,5 +43,5 @@ esperto di R, cercherò comunque di fornirti degli strumenti per creare
 codice R di qualità superiore.
 
 | Data       | Progetto                                    | Video                                                                                                                                  |
-|------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 2023-01-20 | [20230120](/20230120-tm/)[-tm](20230120-tm) | [refactor(“TextMining”, type = “script”)](https://www.youtube.com/watch?v=Z_ZQn_wJPhU&list=PLBf05gtbw86B-cVurq_rJbCUK8h5LVCMj&index=1) |
+|--------------------|---------------------|-------------------------------|
+| 2023-01-20 | [20230120](/20230120-tm/)[-tm](20230120-tm) | [refactor("TextMining", type = "script")](https://www.youtube.com/watch?v=Z_ZQn_wJPhU&list=PLBf05gtbw86B-cVurq_rJbCUK8h5LVCMj&index=1) |
