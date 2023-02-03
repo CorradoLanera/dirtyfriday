@@ -45,3 +45,4 @@ codice R di qualità superiore.
 | Data       | Progetto                                    | Video                                                                                                                                  |
 |--------------------|---------------------|-------------------------------|
 | 2023-01-20 | [20230120](/20230120-tm/)[-tm](20230120-tm) | [refactor("TextMining", type = "script")](https://www.youtube.com/watch?v=Z_ZQn_wJPhU&list=PLBf05gtbw86B-cVurq_rJbCUK8h5LVCMj&index=1) |
+| 2023-02-03 | [20230203-gtsummary](/20230203-gtsummary/)  | [refactor("gtsummary", type = "script")](https://www.youtube.com/watch?v=Cf1_bd6mjms)                                                  |
