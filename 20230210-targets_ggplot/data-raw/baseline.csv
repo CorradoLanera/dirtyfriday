@@ -1,0 +1,4 @@
+id_univoco,anni_eta,reason,osp_in,icu_in,vm_inizio,vm_fine,icu_out,osp_out,esito
+NO004,66,Complicanze Postoperatorie,2013-10-07,2013-10-07,2013-10-07,2013-10-28,2013-10-30,2013-11-27,dimesso
+TS012,59,Complicanze Postoperatorie,2014-06-04,2014-06-05,2014-06-05,2014-06-07,2014-06-08,2014-06-13,dimesso
+TS015,79,Complicanze Postoperatorie,2014-09-25,2014-09-25,2014-09-25,2014-10-03,2014-10-04,2014-11-08,deceduto osp
